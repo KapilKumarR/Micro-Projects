@@ -1,0 +1,8 @@
+boss_level: 1
+critical: 10
+damage: 30
+defense: 20
+experience: 0
+level: 3
+life: 120
+penetrating: 10
